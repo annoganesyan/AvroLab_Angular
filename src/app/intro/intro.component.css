@@ -1,0 +1,44 @@
+@media (max-width: 768px){
+
+    .intro{
+        height: 300px;
+        background-position: top;
+        background-attachment: unset;
+        background-size: cover;
+    }}
+    
+    .intro{
+        position: relative;
+        width: 100%;
+        height: 570px;
+        
+        background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,7,10,0)),to(#0a0930)),url(intro1.jpg);
+        background: linear-gradient(rgba(0,7,10,0),#0a0930),url(intro1.jpg);
+        background-blend-mode: darken;
+        background-position-y: bottom;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+    }
+    
+    .intro__title__desktop {
+        width: 100%;
+        color: #fff;
+        font-size: 43px;
+        padding: 30px;
+        text-align: center;
+        text-shadow: 0 0 5px rgba(0,0,0,.5);
+        padding-top:100px;
+    }
+    
+    
+    @media (max-width: 768px)
+    {
+    .intro{
+        height: 300px;
+        background-position: top;
+        background-attachment: unset;
+        background-size: cover;
+    }}
+    

@@ -1,0 +1,77 @@
+.ah {
+    background:#14aaf4 url(../careers/worldMap.png) bottom no-repeat fixed ;
+    background-blend-mode: lighten;
+    overflow: hidden;
+    padding: 40px 0;
+    
+
+    
+}
+
+.careers__joinUs{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.careers__joinUs__title{
+    padding: 0 0 15px;
+    font-size: 60px;
+    letter-spacing: .7px;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+.careers__joinUs__subTitle{
+    padding: 0 20px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    word-spacing: .7px;
+}
+
+.careers__joinUs__openPositions{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px 0 0;
+}
+.careers__joinUs__open {
+    padding: 10px 0 0;
+    font-size: 60px;
+    color: #fff;
+}
+.careers__box {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 20px;
+    -webkit-box-shadow: 0 8px 6px -6px #21313d;
+    box-shadow: 0 8px 6px -6px #21313d;
+}
+
+.careers__name {
+    padding: 0 0 0 20px;
+    color: #14aaf4;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: .7px;
+}
+
+.careers__description {
+    padding: 0 0 0 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.careers__more {
+    color: #14aaf4;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 15px 0 0;
+    font-size: 14px;
+}

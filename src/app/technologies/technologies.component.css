@@ -1,0 +1,74 @@
+.technologies__title{
+    text-align: center;
+    color: #413f4d;
+    font-size: 35px;
+    font-weight: 600;
+    padding: 30px 0 10px;
+    letter-spacing: .7px;
+}
+
+.technologies__item{
+    text-align: center;
+    padding: 20px 0 30px;
+    color: grey;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.technologies__item__java{
+    color: #5382a1;
+}
+.technologies__name{
+    text-align: center;
+    padding: 10px 0 0;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.technologies__item__aws{
+    color: #f90;
+}
+
+.technologies__item__nodeJs{
+    color: #23b45d;}
+
+    .technologies__item__angular{
+        color: #dd0031;
+    }
+
+    .technologies__item__react{
+        color: #26d9fd;
+    }
+
+    .technologies__item__reactNative{
+        color: #764abc;
+    }
+
+    .technologies__item__python {
+        color: #3873a3;
+    }
+
+    .technologies__item__noIcon{
+        text-align: center;
+        font-size: 55px;
+        font-weight: 600;
+        letter-spacing: 4px;
+        color: #6ebd16;
+    }
+
+    .technologies__item__noIcon2 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: 600;
+        letter-spacing: 4px;
+       
+        transition: .5s;
+        color: #3963ab;
+    }
+    
+.subLine{
+    width: 70px;
+    height: 80px;
+    border-top: 4px solid #14aaf4;
+    margin: auto;
+}

@@ -1,0 +1,62 @@
+.specialization__title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    padding: 50px 0 18px;
+    color: #21313d;
+}
+
+.specialization__position{
+   
+  
+   
+}
+
+
+.specialization__circle{
+    height: auto;
+    min-height: 350px;
+    min-width: 300px;
+    max-width: 300px;
+    width: auto;
+    text-align: center;
+    background-color: #f5f9fa;
+    background: rgba(207,228,255,.9);
+    border-radius: 15px;
+}
+
+   
+
+.specialization__icon{
+    font-size: 45px;
+    color: #14aaf4;
+    padding-top: 25px;
+}
+
+.specialization__icontitle{
+    font-weight: 600;
+    font-size: 25px;
+    color: #21313d;
+    letter-spacing: .7px;
+}
+
+.specialization__description{
+    letter-spacing: .7px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #21313d;
+    padding: 20px 25px 40px;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.subLine{
+    width: 70px;
+    height: 80px;
+    border-top: 4px solid #14aaf4;
+    margin: auto;
+}
